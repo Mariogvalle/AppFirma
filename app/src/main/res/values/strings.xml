@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppFirma</string>
+    <string name="id">Id</string>
+    <string name="descripcion">Descripción</string>
+    <string name="salvar">Salvar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="verimagen">Ver firma</string>
+    <string name="compartir">Compartir</string>
+    <string name="agregar">Agregar firma</string>
+</resources>
